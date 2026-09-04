@@ -4,6 +4,10 @@
 
 A Streamlit-based portfolio risk analysis application that calculates **Historical Value at Risk (VaR)** for an equally or custom-weighted portfolio of major Indian IT stocks.
 
+## Application Preview
+
+![Portfolio Risk Analyzer](screenshot.png)
+
 ## Project Overview
 
 This project analyzes the potential downside risk of a portfolio using the **Historical Simulation approach to Value at Risk**.
@@ -23,7 +27,7 @@ The application allows users to:
 
 The current portfolio consists of:
 
-- TCS
+- Tata Consultancy Services (TCS)
 - Infosys (INFY)
 - HCL Technologies (HCLTECH)
 - Tech Mahindra (TECHM)
