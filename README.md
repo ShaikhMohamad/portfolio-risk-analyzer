@@ -1,5 +1,7 @@
 # Portfolio Risk Analyzer
 
+🚀 **Live Demo:** https://portfolio-risk-analyzer-mjxsgkcyyqdoibt2n5yvmv.streamlit.app/
+
 A Streamlit-based portfolio risk analysis application that calculates **Historical Value at Risk (VaR)** for an equally or custom-weighted portfolio of major Indian IT stocks.
 
 ## Project Overview
